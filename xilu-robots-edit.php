@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Xilu Robots.txt Editor
- * Plugin URI: http://stanhsiao.tw/plugins/xilu-robots-editor/
+ * Plugin URI: https://github.com/alazy21/xilu-robots-editor
  * Description: 編輯網站上 Robots.txt 檔案
  * Author: Stan Hsiao
  * Version: 1.0.0
