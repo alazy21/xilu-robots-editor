@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /wp-admin/
+Allow: /
+
+Sitemap: https://xilu.tw/sitemap_index.xml

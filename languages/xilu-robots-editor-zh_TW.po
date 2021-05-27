@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xilu Robots.txt Editor\n"
+"POT-Creation-Date: 2021-05-22 00:55+0800\n"
+"PO-Revision-Date: 2021-05-22 00:56+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: xilu-robots-edit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: include/xilu-robots-editor_page.php:5
+msgid "File Content:"
+msgstr "檔案內容："
+
+#: include/xilu-robots-editor_page.php:12
+msgid "Close"
+msgstr "關閉"
+
+#: include/xilu-robots-editor_page.php:16
+msgid "Save File"
+msgstr "儲存檔案"
+
+#: xilu-robots-edit.php:23
+msgid "Edit"
+msgstr "編輯"
+
+#: xilu-robots-edit.php:44
+msgid "Robots.txt Editor"
+msgstr "編輯 Robots.txt"
+
+#: xilu-robots-edit.php:53
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您沒有足夠的權限訪問此頁面。"
+
+#: xilu-robots-edit.php:98
+msgid "The file has been edited."
+msgstr "檔案已更新。"
+
+#: xilu-robots-edit.php:101
+msgid "An unexpected error occurred!"
+msgstr "發生未預期的錯誤！"
+
+#. Plugin Name of the plugin/theme
+msgid "Xilu Robots.txt Editor"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://stanhsiao.tw/plugins/xilu-robots-editor/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "編輯網站上 Robots.txt 檔案"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Stan Hsiao"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://stanhsiao.tw/"
+msgstr ""

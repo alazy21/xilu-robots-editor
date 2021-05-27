@@ -1,0 +1,9 @@
+.CodeMirror { border: 1px solid #ddd; height: 70vh; }
+
+.submit .spinner {
+    float: none;
+}
+
+.editor-notices {
+    max-width: 1200px;
+}
